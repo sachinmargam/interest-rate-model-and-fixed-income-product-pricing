@@ -9,7 +9,7 @@ Interest rates have a significant role in the value of practically all derivativ
 ![image]()
 
 ## Notebooks
-1. [Historical Simualtion](https://github.com/sachinmargam/interest-rate-model-and-fixed-income-product-pricing/blob/main/1.%20Historical%20Simualtion.ipynb)
+1. [Historical Simualtion](https://github.com/sachinmargam/interest-rate-model-and-fixed-income-product-pricing/blob/main/1.%20Historical%20Simulation.ipynb)
 2. [Bond Calibration](https://github.com/sachinmargam/interest-rate-model-and-fixed-income-product-pricing/blob/main/2.%20Bond%20Calibration.ipynb)
 
 
